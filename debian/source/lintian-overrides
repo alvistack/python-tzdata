@@ -1,0 +1,5 @@
+python-tzdata source: file-without-copyright-information
+python-tzdata source: no-debian-changes
+python-tzdata source: source-contains-prebuilt-windows-binary
+python-tzdata source: source-is-missing
+python-tzdata source: source-package-encodes-python-version
